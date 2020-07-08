@@ -1,7 +1,7 @@
 # STRAIGHT-AutoDelineation
 Autodelineate formants with Praat for use in STRAIGHT Vocoder  
 For use with short, single, monopthong vowels only  
-You'll need python and matlab  
+You'll need python, matlab, and STRAIGHT Tandem (not legacy straight)
 
 # Instructions
 
