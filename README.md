@@ -1,5 +1,6 @@
 # STRAIGHT-AutoDelineation
 Autodelineate formants with Praat for use in STRAIGHT Vocoder
+For use with short, single, monopthong vowels only
 
 # Instructions
 
